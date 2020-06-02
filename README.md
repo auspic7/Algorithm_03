@@ -1,7 +1,6 @@
 # Algorithm_03
 ## model 1
 313/313 - 1s - loss: 0.1168 - accuracy: 0.9739
-
 Test loss :  0.11675740033388138
 Test accuracy : 0.9739000201225281
 ### success
@@ -10,7 +9,6 @@ Test accuracy : 0.9739000201225281
 <img width="1002" alt="1 fail" src="https://user-images.githubusercontent.com/36367286/83511304-68d06d00-a509-11ea-881e-17e41eeb4d6c.png">
 ## model 2
 313/313 - 3s - loss: 0.0441 - accuracy: 0.9868
-
 Test loss :  0.04405033215880394
 Test accuracy : 0.9868000149726868
 ### success
@@ -19,7 +17,6 @@ Test accuracy : 0.9868000149726868
 <img width="1019" alt="2 fail" src="https://user-images.githubusercontent.com/36367286/83511376-843b7800-a509-11ea-94a2-c6ae4297c7d4.png">
 ## model 3
 313/313 - 3s - loss: 0.0421 - accuracy: 0.9880
-
 Test loss :  0.04206884279847145
 Test accuracy : 0.9879999756813049
 ### success
